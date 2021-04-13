@@ -1,0 +1,35 @@
+{
+    "owner": "Akumu Bavon",
+    "projects": [{
+            "title": "Moovn - Apps on Google Play",
+            "description": "Moovn provides a Suite of Integrated Mobile and Web Applications that offer our users a seamless Shopping, Payments and Package Delivery experience. Check out Moovn’s unique features below: MOOVN: REQUEST A CAR TO YOUR DOORSTEP • The convenience of booking a ride on demand or in advance • Stay connected with your driver along the way • Built-in capability to call or text your driver • Track your driver is in real – time via google maps NOOBEA: SELL WHAT YOU WANT - BUY WHAT YOU NEED. • Noobea is an E-Commerce platform that is fully integrated with Moovn • Enables our users to safely Sell or Buy Products online • Offers a Fully Cashless Payment Experience for your Safety via Moovn Pay • Users can Sell personal items or simply Shop around seamlessly • Ability to Follow Sellers/Vendors for frequent updates on new inventory MOOVN RUSH: REDIFINING LOGISTICS •...",
+            "image": "https://play-lh.googleusercontent.com/nbNMotOoDCa-YnUZGt4tEiVZIr5Ax6EcCgYmdAaUvKbDNF7G6kRUA7n714nAmQdzHXbD",
+            "url": "https://play.google.com/store/apps/details?id=com.moovn.rider"
+        },
+       
+        {
+            "title": "Moovn Driver - Apps on Google Play",
+            "description": "DOWNLOAD THE APP AND GET MOOVN WITH US! Moovn Driver is our driver inspired and custom designed application for professional drivers. The application was designed by putting the driver's functions and technology needs first. Discover all the cool features about Moovn Driver here: MAXIMIZE YOUR EARNINGS • Get auto-dispatched within seconds • You are the boss, therefore you set the time when you want to work or when you have other things to do • Earn extra cash! Get to keep your tips and earn a living MOOVN EASY TO USE NAVIGATION \u0026 COMMUNICATION TOOLS • Built-in navigation tools to guide you to addresses or pick-up locations • Built-in features to contact your passengers through direct call or text CASHLESS PAYMENT OPTIONS • Cashless payment options for your convenience and safety DAILY TRIP \u0026 EARNINGS SUMMARY • Easy access to earning reports and trip summary • Generate comprehensive reports to...",
+            "image": "https://play-lh.googleusercontent.com/Ht380iWBqxRE9DmHN5OPUtlLDt0jRjNO0qrelcDvtyWrYYAEiKx0pTkhdjY9JpR3d-8",
+            "url": "https://play.google.com/store/apps/details?id=com.moovn.partner"
+        },
+        {
+            "title": "Moovn",
+            "description": "Moovn provides a Suite of Integrated Mobile and Web Applications that offer our users a seamless Shopping, Payments and Package Deliveries. Check out Moovn’s unique features below: MOOVN: REQUEST A CAR TO YOUR DOORSTEP • The convenience of booking a ride on demand or in advance • Stay connected…",
+            "image": "https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/41/e9/96/41e99647-464a-bd41-411b-0ce58bef3fe4/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png",
+            "url": "https://apps.apple.com/app/moovn/id1001122843?ign-mpt=uo=4"
+        },
+        {
+            "title": "ShopiLyv - Apps on Google Play",
+            "description": "",
+            "image": "https://play-lh.googleusercontent.com/U3ICIn4-bSI2Nx2eRfzeOJ5uBXlxBqj3O0ad1GaF1AAdoN7ES3Pn6e6eqJYhk17aSWw",
+            "url": "https://play.google.com/store/apps/details?id=com.shopilyv.pos"
+        },
+         {
+             "title": "ecom - Apps on Google Play",
+             "description": "online shopping platform for all products and services",
+             "image": "https://play-lh.googleusercontent.com/n2KHoinR7eI_sY_u61lQx62E4fnJ3TD3tPqC-Z54O1CnEaV2M6Qt8umoe1tWh_XROw",
+             "url": "https://play.google.com/store/apps/details?id=com.bavon.ecom"
+         }
+    ]
+}
